@@ -1,0 +1,6 @@
+{
+  "name": "Easy Trip AI",
+  "description": "Modern AI Travel Planner with trip generation, interactive maps, weather forecasts, packing lists, expense splitting, AI travel assistant, and offline Service Worker caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
